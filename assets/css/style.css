@@ -53,6 +53,10 @@ margin: 0 auto;
     max-width: 960px;
 }
 
+.panel-color {
+    background-color: #8b9aef;
+}
+
 #pabout {
     color: #777777;
     font-family: 'Crimson Text', serif;
@@ -69,14 +73,41 @@ margin: 0 auto;
 *       About Me Section End          *
 **************************************/
 
+/**************************************
+*       About Me Section Start        *
+**************************************/
+
+.thumbnail {
+    border-color: #8b9aef;
+}
+
+.btn-color {
+    color: white;
+    background-color: #8b9aef;
+}
+
+h3 {
+    color: white;
+    background-color: #8b9aef;
+    width: 100%;
+}
+
+
+/**************************************
+*       Portfolio Section End         *
+**************************************/
+
+/**************************************
+*       Contact Section Start         *
+**************************************/
+
 .form-group {
     text-align: center;
 }
 
+/**************************************
+*       Contact Section End           *
+**************************************/
 
-.submit-button {
-    clear: both;
-
-}
 
 
